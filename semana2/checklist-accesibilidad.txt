@@ -1,35 +1,35 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Oscar Ivan Girado Julio
+Fecha: 30 de Abril del 2026
+Nombre de la rama: oscar_ivan_girado_julio
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: si, dado que el titulo te informa de manera clara sobre lo que podras encontrar en el formulario o la temática de esta misma, sabrás que se trata de un asunto comunitario donde tu participación será muy importante.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: Si, lo explica claramente luego del titulo, esto permite que quien realice el formulario conocerá de manera asertiva el objetivo o propósito del formulario.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta: Si, esto con la intención de hacerlo más interactivo y dinámico en el momento de su ejecución.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta: Si, el lenguaje es muy sencillo, claro y comprensible, en la medida que se trata de recoger información pertinente por parte de la comunidad y en esto entran niños, niñas, adolescentes, jóvenes, adultos, etc.
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta: Si, el formulario está hecho para recolectar la información pertinete y acertada en cuanto a lo que se desea conocer en la comunidad.
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta: si, hay unos apartados especiales al m omento que se necesite o requiera escribir ya sea el nombre o dar una respuesta más extensa.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta: Si, se encuentra en la parte inicial del formulario, dado que no se podrán manejar bajo ninguna circustancia los datos de las personas sin que antes estas den su consentimiento.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta: Si, está en la parte inferior con un buen tamaño y una letra muy légible.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta: Si, este no usa de palabras técnicas sino que está intencionado para que toda persona de la comunidad lo compreda y realice.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
-Respuesta:
+Respuesta: Puede ser colocarlo más colorido, en cierta manera, para que llame la atención de la comunidad y sea chévere realizarlo.

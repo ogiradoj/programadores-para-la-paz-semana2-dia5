@@ -1,8 +1,8 @@
 Reflexión de verificación responsable
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Oscar Ivan Girado Julio
+Fecha: 30 de Abril del 2026
+Nombre de la rama: oscar_ivan_girado_julio
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 
@@ -11,4 +11,16 @@ Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
 3. ¿Por qué la accesibilidad también es una forma de inclusión digital?
 4. ¿Qué relación tiene el formulario “Participa” con la participación ciudadana?
 
-Respuesta:
+Respuesta: 
+Considero que no se debe compartir cualquier información sin verificar antes dado 
+que esta puede ser falsa, incompleta o manipulada, difundir contenido incorrecto puede
+ generar desinformación, afectar la reputación de personas o instituciones y producir 
+ decisiones equivocadas en quienes la reciben, por otro lado, una vez que la información  errónea se difunde, es difícil corregir su impacto. También, creo que la verificación 
+ responsable nos va a ayudar a proteger a nuestras comunidades, ya que, esta evita la 
+ propagación de rumores o noticias falsas que pueden causar pánico, conflictos, problemas
+ y daños. Añadido a esto, ayudara a que la confianza entre las personas y la comunicación
+ basada en hechos reales se fortalezca, promoviendo de esta forma una cultura de pensamiento crítico y responsabilidad digital.
+ Además, pienso que la accesibilidad es una forma de inclusión digital porque garantiza que todas las personas, incluidas aquellas con discapacidades o limitaciones
+tecnológicas, puedan acceder, entender y utilizar la información y las herramientas digitales en igualdad de condiciones,
+todo esto reduce la brecha digital y permite una participación más equitativa y por último, considero que el formulario “Participa” se relaciona con la participación ciudadana 
+porque es un medio que permite a las personas expresar opiniones, sugerencias o necesidades, fortaleciendo este mismo la participación, inclusión y democracia. 
