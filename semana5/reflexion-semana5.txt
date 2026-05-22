@@ -1,0 +1,10 @@
+Las APIs podrían ayudar a que las comunidades compartan información porque permiten 
+que diferentes sistemas se conecten entre sí de forma sencilla, también facilitan 
+que los datos se envíen y reciban de manera organizada y en tiempo real, yo 
+considero que esto sería útil para reportar situaciones importantes como emergencias o 
+problemas en una comunidad, además permitiría centralizar la información en una sola 
+plataforma accesible para todos, también ayudaría a que los reportes sean más rápidos y 
+eficientes, en mi opinión esto mejora la comunicación entre las personas y las organizaciones, 
+igualmente las alertas podrían enviarse automáticamente a quienes las necesiten, yo creo 
+que esto hace que la gestión de información sea más clara y ordenada, y finalmente las APIs ayudan
+a que la tecnología sea más colaborativa y útil para todos.

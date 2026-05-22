@@ -1,0 +1,9 @@
+En la primera ruta el servidor muestra el mensaje principal indicando que 
+está funcionando correctamente y que la conexión se realizó sin problemas,
+en la segunda ruta se responde con un mensaje específico de saludo que fue 
+configurado previamente en la aplicación, en la tercera ruta el servidor 
+recibe un valor desde la dirección y lo utiliza para generar una respuesta 
+personalizada dependiendo del dato ingresado, en general estas pruebas permiten 
+entender cómo una aplicación puede responder de diferentes maneras según la solicitud 
+que se haga y cómo se pueden manejar tanto respuestas fijas como dinámicas dentro 
+de un mismo servidor.

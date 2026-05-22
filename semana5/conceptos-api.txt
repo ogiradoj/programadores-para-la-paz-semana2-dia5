@@ -1,0 +1,8 @@
+Esta ruta es un método POST que permite recibir información enviada desde
+el cliente hacia el servidor, en este caso toma un dato llamado mensaje 
+desde el cuerpo de la petición y luego responde en formato JSON confirmando 
+que el reporte fue recibido junto con el mismo mensaje enviado, en una 
+aplicación comunitaria podría servir para que las personas envíen reportes 
+de problemas como fallas en servicios, incidentes o alertas importantes, 
+permitiendo que la información llegue de forma organizada al sistema y pueda 
+ser procesada o almacenada para dar seguimiento a cada caso de manera más eficiente.
