@@ -1,0 +1,3 @@
+Al realizar una petición POST se registra un nuevo reporte en el sistema.
+Cuando se consulta la ruta GET /reportes, el servidor devuelve un arreglo
+con todos los reportes que se han registrado mientras el servidor está activo.
