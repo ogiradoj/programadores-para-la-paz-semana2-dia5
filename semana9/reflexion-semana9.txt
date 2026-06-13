@@ -1,0 +1,9 @@
+Las plataformas tecnológicas que usan las comunidades deben funcionar de manera estable y segura, 
+ya que muchas personas dependen de ellas para comunicarse, informarse y organizarse, además, un 
+servidor estable evita caídas del sistema que pueden generar desconfianza o interrumpir procesos 
+importantes, por otro lado, la seguridad es clave para proteger la información de los usuarios y 
+prevenir accesos no autorizados, asimismo, cuando un servidor está bien configurado permite que los 
+servicios estén disponibles de forma continua, de igual manera, los logs y el monitoreo ayudan a 
+detectar errores a tiempo y mejorar el sistema, en consecuencia, una buena gestión del servidor 
+garantiza el crecimiento de la plataforma sin afectar a sus usuarios, fortaleciendo así la confianza 
+de la comunidad en la tecnología que utiliza.
