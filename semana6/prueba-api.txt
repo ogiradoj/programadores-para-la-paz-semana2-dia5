@@ -1,0 +1,6 @@
+Al enviar una petición POST a /registro con un JSON que contiene nombre y mensaje,
+el servidor responde confirmando que los datos fueron recibidos correctamente
+y devuelve los mismos valores enviados por el cliente.
+
+Postman no funciona en versión gratuita dentro de Cursor,
+por eso se utilizó la aplicación oficial de Postman para realizar la petición POST.

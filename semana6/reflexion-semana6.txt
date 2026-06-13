@@ -1,0 +1,7 @@
+Es importante que las plataformas tecnológicas puedan recibir información de los ciudadanos de 
+forma estructurada, ya que esto permite organizar los datos correctamente, además, el uso de JSON 
+facilita que los sistemas entiendan la información enviada, lo que ayuda a procesar reportes de 
+manera más rápida y eficiente, asimismo, posibilita la automatización de respuestas y acciones, 
+permitiendo a las plataformas detectar problemas recurrentes, también mejora la comunicación entre 
+ciudadanos y autoridades, reduce errores gracias al uso de estructuras claras y, finalmente, 
+contribuye a la creación de sistemas más confiables y transparentes.
